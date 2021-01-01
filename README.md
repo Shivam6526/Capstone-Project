@@ -14,3 +14,5 @@ Execution steps:
 A. Run the data_cleaning.py script to read and clean the immigration data and finally write into a csv file
 B. Run create_tables.py to create the required tables as per the data model
 C. Run etl_pipeline.py to load the data in tables.
+
+Follow the Project_Report for more detailed view of the project.
